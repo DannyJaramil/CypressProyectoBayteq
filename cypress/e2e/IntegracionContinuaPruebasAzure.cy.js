@@ -60,7 +60,7 @@ describe('Registrar Parametro', () => {
 //cy.get("input[id='mat-input-0']").click().type('admin@saludsa.com');
 //cy.get("input[name='Password']").click().type('Inicio01.');
 //cy.get("input[type='submit']").click();
-
+//develop
 
 
 
