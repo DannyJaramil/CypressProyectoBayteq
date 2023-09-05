@@ -14,6 +14,7 @@ describe('Loggin', () => {
         cy.get('input[type="checkbox"]').click();
         cy.get('button[type="submit"]').click({ force: true });
 
+
     });
 })
 

@@ -12,6 +12,10 @@ describe('Search for books', () => {
     afterEach(() => {
         cy.eyesClose()
     })
+ afterEach(() => {
+        cy.eyesClose()
+    })
+    ASasASAs
 
     it('should return one book with title Agile Testing ', function () {
         cy.get('#searchBar').type('Agile Testing', { delay: 250 })
