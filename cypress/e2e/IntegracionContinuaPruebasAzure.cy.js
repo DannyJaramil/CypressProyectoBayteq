@@ -65,6 +65,7 @@ describe('Registrar Parametro', () => {
 //cy.get("input[name='Password']").click().type('Inicio01.');
 //cy.get("input[type='submit']").click();
 //demo
+// Segundo comentario
 
 
 
