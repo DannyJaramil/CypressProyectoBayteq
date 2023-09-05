@@ -13,6 +13,9 @@ describe('Loggin', () => {
         cy.get('input[formcontrolname="password"]').type('Inicio01.');
         cy.get('input[type="checkbox"]').click();
         cy.get('button[type="submit"]').click({ force: true });
+        cy.get('button[type="submit"]').click({ force: true });
+
+
 
     });
 })
