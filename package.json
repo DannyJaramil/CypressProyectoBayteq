@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-cypress",
+  "version": "1.0.0",
+  "description": "Framework Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "automation"
+  ],
+  "author": "Danny Jaramillo QA",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  },
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.33.1"
+  }
+}
